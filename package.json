@@ -13,10 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bogdanconstantin92/github.io/navigation",
-  "bugs": {
-    "url": "https://github.com/BogdanConstantin92/responsive-webpage/issues"
-  },
+  "homepage": "http://bogdanconstantin92/github.io/navigation",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
