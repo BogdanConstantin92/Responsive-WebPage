@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "deploy": "gh-pages -d responsive-webpage"
+    "deploy": "gh-pages -d RESPONSIVE-WEBPAGE"
   },
   "keywords": [],
   "author": "",
