@@ -6,14 +6,10 @@
   "scripts": {
     "deploy": "gh-pages -d responsive-webpage"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BogdanConstantin92/responsive-webpage.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "http://bogdanconstantin92/github.io/navigation",
+  "homepage": "https://bogdanconstantin92/github.io/navigation",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
