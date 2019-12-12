@@ -1,0 +1,23 @@
+{
+  "name": "responsive-webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d responsive-webpage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BogdanConstantin92/responsive-webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bogdanconstantin92/github.io/navigation",
+  "bugs": {
+    "url": "https://github.com/BogdanConstantin92/responsive-webpage/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
